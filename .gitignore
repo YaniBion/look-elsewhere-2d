@@ -60,3 +60,21 @@ target/
 .ipynb_checkpoints/root_TH2F_example-checkpoint.ipynb
 
 .ipynb_checkpoints/examples_from_paper-checkpoint.ipynb
+
+.ipynb_checkpoints/create_gaussian_process_examples-checkpoint.ipynb
+
+HiggsLWA.root
+
+HiggsLWANew.root
+
+.ipynb_checkpoints/two-experiment-lee-checkpoint.ipynb
+
+.ipynb_checkpoints/two-experiment-lee-testing-checkpoint.ipynb
+
+.ipynb_checkpoints/nesting_non-nested-checkpoint.ipynb
+
+.ipynb_checkpoints/2ExpDiscreteLEE-checkpoint.ipynb
+
+.ipynb_checkpoints/isotonic_gp-checkpoint.ipynb
+
+.ipynb_checkpoints/create_gaussian_process_examples-fill_holes-checkpoint.ipynb

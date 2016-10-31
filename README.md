@@ -5,6 +5,8 @@ Kyle Cranmer, Nov 19, 2015
 Based on
 *Estimating the significance of a signal in a multi-dimensional search* by  Ofer Vitells and Eilam Gross http://arxiv.org/pdf/1105.4355v1.pdf
 
+Thanks to Ruggero Turra for detailed checks and debugging.
+
 **Note**: You can run the notebook from your browser right now by gong to [everware](https://everware.rep.school.yandex.net/) and paste the URL to this repository. 
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.34842.svg)](http://dx.doi.org/10.5281/zenodo.34842)
@@ -103,6 +105,7 @@ where
    * $P(\chi^2_1 > u)$ is the standard chi-square probability 
    * and $N_1$ and $N_2$ are two coefficients that characterize the chi-square random field.
    
-### Image of example 2-d likelihood scans
+### Image for example 2-d likelihood scans
+  ![](chi-square-random-fields.png)
   ![](islands.png)
 
